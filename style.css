@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#div_palavra {
+    font-size: 3em;
+    margin-bottom: 30px;
+}
+
+#div_chutadas {
+    font-size: 2em;
+    color: blue;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#div_mensagem {
+    display: none;
+}
+
+#btn_reiniciar {
+    display: none;
+    margin: auto;
+    background-color: #4caf50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#btn_reiniciar:hover {
+    background-color: #2f6b31;
+}
