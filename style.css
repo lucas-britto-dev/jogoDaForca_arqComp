@@ -16,10 +16,6 @@ body {
     margin-bottom: 20px;
 }
 
-#div_mensagem {
-    display: none;
-}
-
 #btn_reiniciar {
     display: none;
     margin: auto;
